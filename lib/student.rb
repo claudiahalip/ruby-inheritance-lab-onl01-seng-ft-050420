@@ -9,9 +9,9 @@ class Student < User
   #   @knowlege << teach
   # end 
   
-  # def knowlege
-  #   @knowledge
-  # end 
+  def knowlege
+    @knowledge
+  end 
   
   
 end
